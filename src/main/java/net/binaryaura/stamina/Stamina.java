@@ -13,7 +13,7 @@ public class Stamina {
 	
 	final static String MODID = "stamina";
 	final static String NAME = "Stamina";
-	final static String VERSION = "1G0";
+	final static String VERSION = "1G0-2";
 	final static String CLIENTPROXY = "net.binaryaura.stamina.client.";
 	final static String COMMONPROXY = "net.binaryaura.stamina.";
 	
@@ -25,17 +25,17 @@ public class Stamina {
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
-		
+		proxy.preInit(event);
 	}
 	
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
-		proxy.registerRenderers();
+		proxy.init(event);
 	}
 	
 	@EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
-		
+		proxy.postInit(event);
 	}
 	
 }
