@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stamina",
+  "name": "Stamina",
+  "description": "Adds Stamina to the game and a new bar.",
+  "version": "1.0.0.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BinaryAura"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Minecraft Forge 11.14.3.1450", "Minecraft 1.8.X"]
+}
+]
