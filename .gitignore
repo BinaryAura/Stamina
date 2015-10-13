@@ -6,7 +6,7 @@ build
 # ECLIPSE IDE FILES
 
 .classpath
-#.project
+.project
 .settings
 bin
 eclipse
