@@ -6,4 +6,5 @@ build
 # ECLIPSE IDE FILES
 
 .classpath
+.project
 .settings
