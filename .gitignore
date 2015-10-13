@@ -1,7 +1,6 @@
 # FORGE API FILES
 
 .gradle
-gradle
 build
 
 # ECLIPSE IDE FILES
