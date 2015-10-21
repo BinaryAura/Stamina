@@ -8,5 +8,7 @@ build
 .classpath
 .project
 .settings
+about
 bin
-#eclipse
+eclipse
+gradle
