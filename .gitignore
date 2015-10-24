@@ -8,7 +8,4 @@ build
 .classpath
 .project
 .settings
-about
 bin
-eclipse
-gradle
