@@ -1,1 +1,14 @@
-/bin/
+# FORGE API FILES
+
+.gradle
+build
+
+# ECLIPSE IDE FILES
+
+.classpath
+.project
+.settings
+bin
+config
+log
+saves
